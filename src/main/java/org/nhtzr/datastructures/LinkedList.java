@@ -2,8 +2,6 @@ package org.nhtzr.datastructures;
 
 import org.nhtzr.datastructures.linkedlist.Node;
 
-import javax.naming.OperationNotSupportedException;
-import java.util.Collection;
 import java.util.Iterator;
 
 /**
